@@ -21,9 +21,9 @@ class ClassForm extends Component {
 
     handleSubmit(e){
         e.preventDefault();
-            console.log(this.state.name);
-            console.log(this.state.email);
-            console.log(this.state.password)
+            console.log('Name:',this.state.name);
+            console.log('Email:',this.state.email);
+            console.log('Password:',this.state.password)
         
     }
           
