@@ -1,5 +1,5 @@
 import './App.css';
-import ClassForm from './classform';
+import ClassForm from './exercise';
 
 function App() {
   return (
